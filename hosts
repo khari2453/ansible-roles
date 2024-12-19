@@ -2,7 +2,6 @@
 172.31.27.55
 [prod]
 172.31.25.220
-[uat]
-172.31.25.148
+
 [all:vars]
 ansible_user=ec2-user
